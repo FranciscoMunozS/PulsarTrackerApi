@@ -7,7 +7,7 @@ end
 
 gem 'rails', '~> 5.1.7'
 gem 'mysql2', '>= 0.3.18', '< 0.6.0'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'rack-cors'
 gem 'redis', '~> 4.1', '>= 4.1.2'
 gem 'jwt_sessions', '~> 2.4', '>= 2.4.1'
